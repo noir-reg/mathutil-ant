@@ -23,7 +23,7 @@ public class MathUtilityTest {
          long expectedValue=1;
          long actual=MathUtility.getFactor(n);
          assertEquals(expectedValue,actual );
-         assertEquals(1200,MathUtility.getFactor(5) );
+         assertEquals(120,MathUtility.getFactor(5) );
          assertEquals(720,MathUtility.getFactor(6) );
      }
     
