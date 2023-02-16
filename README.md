@@ -4,4 +4,4 @@
 Unit Test technique DDT, TDD
 * A demonstration of applying CI technique based on GitHub Actions, Ant build tool
 ### Connect me via hungphamphu159@gmail.com
-#### Copyright &#169; 2023 noirreg
+#### Copyright &#169; 2023 noir.reg
