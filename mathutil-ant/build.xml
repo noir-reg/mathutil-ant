@@ -52,6 +52,7 @@
       -init-macrodef-debug:     defines macro for class debugging
       -init-macrodef-java:      defines macro for class execution
       -do-jar:                  JAR building
+      -test-pre-pre-jar:
       run:                      execution of project 
       -javadoc-build:           Javadoc generation
       test-report:              JUnit report generation
