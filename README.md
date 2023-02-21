@@ -5,4 +5,4 @@ Unit Test technique DDT, TDD.
 * A demonstration of applying CI technique based on GitHub Actions, Ant build tool.
 ![alt text](https://github.com/noir-reg/mathutil-ant/blob/master/src/screenshot/Test.png)
 ### Connect me via hungphamphu159@gmail.com
-#### Copyright &#169; 2023 noir.reg
+#### Copyright &#169; 2023 noirreg
